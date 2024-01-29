@@ -1,0 +1,37 @@
+#EXTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOS8yMDI0IDg6MDo1MCBQTSZoYXNoX3ZhbHVlPUV3Q1RHQW9TY1F5QzZTMlltZVN6RHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jYzIzY2FhMS0yOWI5LTQyMDktYmQ4ZC0zYzk2MWQ5ZjA5MDA=/
+
+
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/jEIYIFR.png" group-title="✨ CANAIS • ESPORTE",ESPN 2 FHD
+http://c.strzzi.site:80/69754974281040/247129511903/2986825
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/jEIYIFR.png" group-title="✨ CANAIS • ESPORTE",ESPN 2 HD
+http://c.strzzi.site:80/69754974281040/247129511903/2986826
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="https://i.imgur.com/jEIYIFR.png" group-title="✨ CANAIS • ESPORTE",ESPN 2 SD
+http://c.strzzi.site:80/69754974281040/247129511903/2986827
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 3 FHD" tvg-logo="https://i.imgur.com/joLAfqH.png" group-title="✨ CANAIS • ESPORTE",ESPN 3 FHD
+http://c.strzzi.site:80/69754974281040/247129511903/2986828
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 HD" tvg-logo="https://i.imgur.com/joLAfqH.png" group-title="✨ CANAIS • ESPORTE",ESPN 3 HD
+http://c.strzzi.site:80/69754974281040/247129511903/2986829
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 SD" tvg-logo="https://i.imgur.com/joLAfqH.png" group-title="✨ CANAIS • ESPORTE",ESPN 3 SD
+http://c.strzzi.site:80/69754974281040/247129511903/2986830
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 FHD" tvg-logo="https://i.imgur.com/3OiOlDZ.png" group-title="✨ CANAIS • ESPORTE",ESPN 4 FHD
+http://c.strzzi.site:80/69754974281040/247129511903/2986831
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 HD" tvg-logo="https://i.imgur.com/3OiOlDZ.png" group-title="✨ CANAIS • ESPORTE",ESPN 4 HD
+http://c.strzzi.site:80/69754974281040/247129511903/2986832
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN 4 SD" tvg-logo="https://i.imgur.com/3OiOlDZ.png" group-title="✨ CANAIS • ESPORTE",ESPN 4 SD
+http://c.strzzi.site:80/69754974281040/247129511903/2986833
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png" group-title="✨ CANAIS • ESPORTE",ESPN EXTRA FHD
+http://c.strzzi.site:80/69754974281040/247129511903/2986834
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png" group-title="✨ CANAIS • ESPORTE",ESPN EXTRA HD
+http://c.strzzi.site:80/69754974281040/247129511903/2986835
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://2.bp.blogspot.com/-IrchTJzKX_Y/XmUM5jakpdI/AAAAAAAACVY/W4Em0dmFMC8nkeEFnd3fcxhDEpp6RCIvQCK4BGAYYCw/s400/ESPN%2BEX.png" group-title="✨ CANAIS • ESPORTE",ESPN EXTRA SD
+http://c.strzzi.site:80/69754974281040/247129511903/2986836
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/w0k0QqA.png" group-title="✨ CANAIS • ESPORTE",ESPN FHD
+http://c.strzzi.site:80/69754974281040/247129511903/2986837
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/w0k0QqA.png" group-title="✨ CANAIS • ESPORTE",ESPN HD
+http://c.strzzi.site:80/69754974281040/247129511903/2986838
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/w0k0QqA.png" group-title="✨ CANAIS • ESPORTE",ESPN SD
+http://c.strzzi.site:80/69754974281040/247129511903/2986839
